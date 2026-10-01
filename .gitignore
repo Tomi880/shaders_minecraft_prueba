@@ -1,3 +1,10 @@
 dist/
 .DS_Store
 __pycache__/
+AGENTS.md
+Claude.md
+.opencode
+dist
+docs
+prompts
+scripts
